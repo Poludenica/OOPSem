@@ -1,4 +1,6 @@
+
 import java.util.HashMap;
+
 
 public class Program {
 
@@ -13,4 +15,5 @@ public class Program {
         Human person1 = new Human("Ivan", false, false, 1000, shoppingList);
         foodAutomat.createOrder(person1);      
     }
+   
 }
